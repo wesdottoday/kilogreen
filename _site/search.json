@@ -1,0 +1,75 @@
+[
+  
+    {
+      "title"    : "Static Website Short Title Here",
+      "category" : "technology",
+      "tags"     : "jekyll",
+      "url"      : "/technology/2019/11/02/static-website.html",
+      "date"     : "2019-11-02 15:10:09 +0600"
+    } ,
+  
+    {
+      "title"    : "Dynamic Website Short Title Here",
+      "category" : "web",
+      "tags"     : "jekyll",
+      "url"      : "/web/2019/11/01/dynamic-website.html",
+      "date"     : "2019-11-01 15:12:09 +0600"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll! Go ahead and edit",
+      "category" : "jekyll",
+      "tags"     : "jekyll",
+      "url"      : "/jekyll/2019/04/08/welcome-to-jekyll.html",
+      "date"     : "2019-04-08 15:12:09 +0600"
+    } ,
+  
+    {
+      "title"    : "WordPress hostin manage your growth Nullam non nisi est",
+      "category" : "wordpress",
+      "tags"     : "wordpress, hosting",
+      "url"      : "/wordpress/2019/03/10/wordpress-hosting.html",
+      "date"     : "2019-03-10 20:37:13 +0600"
+    } ,
+  
+    {
+      "title"    : "html5 Static Site Generator For All amet facilisis",
+      "category" : "educationtech",
+      "tags"     : "wordpress, hosting",
+      "url"      : "/education/tech/2019/03/09/html5-static-site.html",
+      "date"     : "2019-03-09 20:37:13 +0600"
+    } ,
+  
+    {
+      "title"    : "Just Trying And Enjoying magna etiam",
+      "category" : "tech",
+      "tags"     : "technology, education",
+      "url"      : "/tech/2019/02/09/just-trying.html",
+      "date"     : "2019-02-09 20:37:13 +0600"
+    } ,
+  
+    {
+      "title"    : "Easily choose from thousan of free themes",
+      "category" : "tipstech",
+      "tags"     : "technology, education",
+      "url"      : "/tips/tech/2019/02/09/free-themes.html",
+      "date"     : "2019-02-09 20:37:13 +0600"
+    } ,
+  
+    {
+      "title"    : "Alternative Free Way To Be A Prodessional Designer",
+      "category" : "tech",
+      "tags"     : "technology, education",
+      "url"      : "/tech/2019/02/09/alternative-for-free.html",
+      "date"     : "2019-02-09 20:37:13 +0600"
+    } ,
+  
+    {
+      "title"    : "Seo Friendly Post Title venenatis a condimentum vitae",
+      "category" : "health trips",
+      "tags"     : "technology, education, SEO",
+      "url"      : "/health%20trips/2019/02/01/seo-friendly-post.html",
+      "date"     : "2019-02-01 20:37:13 +0600"
+    } 
+  
+]
