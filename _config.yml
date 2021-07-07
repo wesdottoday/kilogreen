@@ -1,18 +1,18 @@
 
-title: "Onova - IT Solutions and Services Company"
+title: "Kilo Green - A clean living company"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://onova.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kilo.green" # the base hostname & protocol for your site, e.g. http://example.com
 phone_number: "+8801763633959"
-email: "rubel2585@gmail.com"
-company_name: "themeaffair"
+email: "hello@kilo.green"
+company_name: "Kilo Green, LLC"
 site_logo_one: "/assets/images/logo_1.png"
 site_logo_two: "/assets/images/logo_3.png"
 site_logo_three: "/assets/images/logo_2.png"
-site_name: "Onova"
+site_name: "Kilo Green"
 
 facebook_url: "https://facebook.com/onva"
 twitter_url: "https://twitter.com/onva"
@@ -51,9 +51,10 @@ pagination:
   per_page: 6
 
   # The permalink structure for the paginated pages (this can be any level deep)
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num/' # Pages are index.html inside this folder (default)
   #permalink: '/page/:num.html' # Pages are simple html files 
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+  permalink: '/:title'
 
   # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
   title: ':title - page :num'
